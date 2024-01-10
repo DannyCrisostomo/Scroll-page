@@ -1,0 +1,33 @@
+/* Estilos por defecto para todos los tamaños de pantalla */
+
+/* Para dispositivos móviles */
+@media screen and (max-width: 767px) {
+    /* Estilos para pantallas con un ancho máximo de 767px (generalmente smartphones) */
+    .sections {
+        font-size: 4vh; /* Tamaño de letra más pequeño para dispositivos móviles */
+    }
+}
+
+/* Para tabletas en orientación vertical */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Estilos para pantallas con un ancho entre 768px y 1023px (tabletas en orientación vertical) */
+    .sections {
+        font-size: 7vh; /* Tamaño de letra mediano para tabletas en orientación vertical */
+    }
+}
+
+/* Para tabletas en orientación horizontal y computadoras portátiles */
+@media screen and (min-width: 1024px) and (max-width: 1199px) {
+    /* Estilos para pantallas con un ancho entre 1024px y 1199px (tabletas en orientación horizontal y computadoras portátiles) */
+    .sections {
+        font-size: 9vh; /* Tamaño de letra mediano para tabletas en orientación horizontal y computadoras portátiles */
+    }
+}
+
+/* Para computadoras de escritorio */
+@media screen and (min-width: 1200px) {
+    /* Estilos para pantallas con un ancho igual o mayor a 1200px (computadoras de escritorio) */
+    .sections {
+        font-size: 10vh; /* Tamaño de letra más pequeño para computadoras de escritorio */
+    }
+}
