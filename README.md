@@ -1,34 +1,44 @@
-# Scroll Webpage
+# Scroll
 
-Este proyecto es una página web simple con secciones que se desplazan verticalmente. Al hacer scroll hacia arriba o hacia abajo, la página se desplaza automáticamente a la siguiente sección.
+![Demo](demo.gif)
 
-## Contenido
+## Descripción
 
-- [HTML](#html)
-- [CSS](#css)
-- [JavaScript](#javascript)
+Este proyecto es un simple sitio web que demuestra el efecto de desplazamiento suave y por secciones. Cada sección tiene un fondo de color diferente y emojis para ilustrar distintas categorías.
 
-## HTML
+## Tecnologías Utilizadas
 
-```html
-<!DOCTYPE html>
-<html lang="en">
+- HTML
+- CSS (con estilos responsivos)
+- JavaScript
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/query.css">
-  <title>Scroll</title>
-  <script src="js/script.js"></script>
-</head>
+## Capturas de Pantalla
 
-<body>
-  <div class="section">
-    <div class="sections" style="background: rgb(255, 0, 98);">👨‍🎓 Profesión</div>
-    <div class="sections" style="background: rgb(0, 0, 0);">💻 Informatica</div>
-    <div class="sections" style="background: rgb(0 255 173);">😎 Programación</div>
-  </div>
-</body>
+*Captura de Pantalla de la Sección "Profesión"*
+![Profesión](screenshots/profession.png)
 
-</html>
+*Captura de Pantalla de la Sección "Informática"*
+![Informática](screenshots/computer-science.png)
+
+*Captura de Pantalla de la Sección "Programación"*
+![Programación](screenshots/programming.png)
+
+## Estilos y Colores
+
+El proyecto utiliza variables CSS para los colores. Aquí están algunas de las variables utilizadas:
+
+```css
+:root {
+    --white: #ffffff;
+    --dark: #000000;
+    --reddark: #862600;
+    --red1: #d14009;
+    --orange1: #fc9601;
+    --yellow1: #ffcc33;
+    --beige: #ffe484;
+    --fontName: "Syne", sans-serif;
+    --fontHeaders1: "Orbitron", sans-serif;
+    --fontBody1: "Rajdhani", sans-serif;
+    --fontHeaders2: "Fira Sans", sans-serif;
+    --fontJapanese: "Noto Sans JP", sans-serif;
+}
