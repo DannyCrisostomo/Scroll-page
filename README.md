@@ -2,14 +2,16 @@
 
 Este proyecto es una página web simple con secciones que se desplazan verticalmente. Al hacer scroll hacia arriba o hacia abajo, la página se desplaza automáticamente a la siguiente sección.
 
-
 ## Tecnologías Utilizadas
 
 - HTML
 - CSS (con estilos responsivos)
 - JavaScript
+  
+## Vista Previa 🌐
 
-## Capturas de Pantalla
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://frolicking-pasca-b144ec.netlify.app/).
+
 
 *Captura de Pantalla de la Sección "Profesión"*
 ![Profesión](https://github.com/DannyCrisostomo/Scroll-page/blob/1b357224dfa783e11c466bb94617affb674c9cae/Scroll.png)
