@@ -14,7 +14,7 @@ Este proyecto es un simple sitio web que demuestra el efecto de desplazamiento s
 ## Capturas de Pantalla
 
 *Captura de Pantalla de la Sección "Profesión"*
-![Profesión](screenshots/profession.png)
+![Profesión]([screenshots/profession.png](https://github.com/DannyCrisostomo/Scroll-page/blob/5123fc61a3cc112c2870032435ef1ba76962918b/Scroll.png))
 
 *Captura de Pantalla de la Sección "Informática"*
 ![Informática](screenshots/computer-science.png)
