@@ -14,13 +14,14 @@ Este proyecto es un simple sitio web que demuestra el efecto de desplazamiento s
 ## Capturas de Pantalla
 
 *Captura de Pantalla de la Sección "Profesión"*
-![Profesión]([screenshots/profession.png](https://github.com/DannyCrisostomo/Scroll-page/blob/5123fc61a3cc112c2870032435ef1ba76962918b/Scroll.png))
+![Profesión](https://github.com/DannyCrisostomo/Scroll-page/blob/1b357224dfa783e11c466bb94617affb674c9cae/Scroll.png)
 
 *Captura de Pantalla de la Sección "Informática"*
-![Informática](screenshots/computer-science.png)
+![Informática](https://github.com/DannyCrisostomo/Scroll-page/blob/1b357224dfa783e11c466bb94617affb674c9cae/Scroll2.png)
 
 *Captura de Pantalla de la Sección "Programación"*
-![Programación](screenshots/programming.png)
+![Programación](https://github.com/DannyCrisostomo/Scroll-page/blob/1b357224dfa783e11c466bb94617affb674c9cae/Scroll3.png)
+
 
 ## Estilos y Colores
 
